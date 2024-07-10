@@ -1,28 +1,152 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T02:38:58.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KuerAoaEx9WpGGf2HSNW" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T05:21:42.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MQ68-bJLOnRDYa7LHVdm" version="24.6.4" type="github">
   <diagram name="Página-1" id="q5eTlEpD4O3bjBraEdJ5">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eOJueIMr6wpzgww1xQY5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eOJueIMr6wpzgww1xQY5-1" target="eOJueIMr6wpzgww1xQY5-6">
+        <mxCell id="eOJueIMr6wpzgww1xQY5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eOJueIMr6wpzgww1xQY5-1" target="eOJueIMr6wpzgww1xQY5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eOJueIMr6wpzgww1xQY5-1" value="¿Qué es escalado vertical?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="eOJueIMr6wpzgww1xQY5-1" value="¿Qué es escalado vertical?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="361" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eOJueIMr6wpzgww1xQY5-6" value="Es mejorar el rendimiento de un sistema&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;u&gt;agregándole más recursos&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&amp;nbsp;a un solo servidor. Como agregar RAM, aumentar la capacidad de HDD/SSD o mejorar la capacidad de procesamiento (CPU).&amp;nbsp;&lt;div&gt;Es como mejorar un solo ordenador para que pueda manejar más trabajo o hacerlo más rápido.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="35" width="370" height="170" as="geometry" />
+        <mxCell id="eOJueIMr6wpzgww1xQY5-6" value="Es mejorar el rendimiento de un sistema&amp;nbsp;&lt;b&gt;&lt;i&gt;&lt;u&gt;agregándole más recursos&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&amp;nbsp;a un solo servidor. Como agregar RAM, aumentar la capacidad de HDD/SSD o mejorar la capacidad de procesamiento (CPU).&amp;nbsp;&lt;div&gt;Es como mejorar un solo ordenador para que pueda manejar más trabajo o hacerlo más rápido.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="306" width="370" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="eOJueIMr6wpzgww1xQY5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eOJueIMr6wpzgww1xQY5-8">
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eOJueIMr6wpzgww1xQY5-8" target="eOJueIMr6wpzgww1xQY5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOJueIMr6wpzgww1xQY5-8" value="Cloud dev" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOJueIMr6wpzgww1xQY5-12" value="Se encargan de diseñar, crear, probar y mantener soluciones en la nube, como aplicaciones y servicios.&amp;nbsp;&lt;div&gt;Trabajan en conjunto con arquitectos de soluciones en la nube, administradores de bases de datos en la nube, administradores de la nube y clientes para implementar estas soluciones.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--4" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Conceptos ������&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eOJueIMr6wpzgww1xQY5-12" target="eOJueIMr6wpzgww1xQY5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="350" as="targetPoint" />
+            <mxPoint x="-10" y="869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eOJueIMr6wpzgww1xQY5-8" value="Cloud dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="979" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="eOJueIMr6wpzgww1xQY5-12" value="Se encargan de diseñar, crear, probar y mantener soluciones en la nube, como aplicaciones y servicios.&amp;nbsp;&lt;div&gt;Trabajan en conjunto con arquitectos de soluciones en la nube, administradores de bases de datos en la nube, administradores de la nube y clientes para implementar estas soluciones.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="295" width="440" height="110" as="geometry" />
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--12" target="FSGZ_mrEEoBqKYDboXB--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--12" target="FSGZ_mrEEoBqKYDboXB--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--12" value="AZ-204" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="939" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--15" value="Lenguajes; C#, Java, Python, Javascript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="934" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--16" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rYW75_0RCzU&quot;&gt;Resumen de AZ-900:&amp;nbsp;https://www.youtube.com/watch?v=rYW75_0RCzU&amp;nbsp;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://learn.microsoft.com/es-es/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&amp;amp;assessmentId=35&amp;amp;practice-assessment-type=certification&quot;&gt;Test de prueba de AZ-204:&amp;nbsp;https://learn.microsoft.com/es-es/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&amp;amp;assessmentId=35&amp;amp;practice-assessment-type=certification&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;a href=&quot;https://news.microsoft.com/es-xl/anunciamos-la-disponibilidad-de-azure-app-service/&quot;&gt;App service:&amp;nbsp;https://news.microsoft.com/es-xl/anunciamos-la-disponibilidad-de-azure-app-service/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/resources/cloud-computing-dictionary/scaling-out-vs-scaling-up/?wt.mc_id=studentamb_386385&quot;&gt;Escalados (vertical/horizontal):&amp;nbsp;https://azure.microsoft.com/resources/cloud-computing-dictionary/scaling-out-vs-scaling-up/?wt.mc_id=studentamb_386385&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="170" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--17" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Recursos que usé esta semana&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;������&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="50" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--18" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Semana 1 - Introducción y preparación del entorno de trabajo&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="50" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--20" value="Se adquirirán habilidades en desarrollo, diseño, prueba y mantenimiento de aplicaciones y servicios en la nube.&amp;nbsp;&lt;div&gt;Esta cert también cubre la creación y configuración de soluciones informáticas, el uso de almacenamiento de Azure, la implementación de seguridad, el monitoreo y la solución de problemas, la integración de servicios de Azure y de terceros, y el desarrollo de soluciones PaaS y serverless con Azure Functions, preparando a los desarrolladores para manejar efectivamente la implementación, seguridad y monitoreo de soluciones en la nube.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="719" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--22" value="Es recomendable tomar antes de esta, la AZ-900,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--24" value="Habilidades a evaluar:&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desarrollo de soluciones de proceso de Azure (25-30 %)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desarrollo para Azure Storage (15-20 %)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Implementación de la seguridad de Azure (15–20 %)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Supervisión, solución de problemas y optimización de las soluciones de Azure (10-15 %)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Conexión y consumo de servicios de Azure y de terceros (20-25 %)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="894" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="587.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--27" value="Azure cuenta:" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="547.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--29" value="Cuenta normal:&amp;nbsp;&lt;a href=&quot;https://azure.microsoft.com/free/?wt.mc_id=studentamb_386385&quot;&gt;https://azure.microsoft.com/es-mx/free&lt;/a&gt;&lt;div&gt;Cuenta para estudiantes:&amp;nbsp;&lt;a href=&quot;https://azure.microsoft.com/free/students/?wt.mc_id=studentamb_386385&quot;&gt;https://azure.microsoft.com/es-es/free/students&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="530" width="310" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--30" target="FSGZ_mrEEoBqKYDboXB--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--30" value="VSCode:" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--31" value="Instalar extensiones: &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&quot;&gt;Azure Tools&lt;/a&gt; y &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Azurite.azurite&quot;&gt;Azurite&lt;/a&gt;&lt;div&gt;Una vez instalados, iniciamos sesión con nuestra cuenta de Azure en Visual Studio Code ( Sign in to Azure)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;img height=&quot;60&quot; width=&quot;247&quot; style=&quot;background-color: initial;&quot; src=&quot;data:image/png;base64,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&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="690" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--33" value="Azure app service" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--38" target="FSGZ_mrEEoBqKYDboXB--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--38" target="FSGZ_mrEEoBqKYDboXB--42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--38" target="FSGZ_mrEEoBqKYDboXB--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--38" value="Azure App Service es un servicio HTTP diseñado para alojar aplicaciones web, APIs REST y back-ends móviles.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;Permite desarrollar con tu lenguaje de programación o framework favorito, y las aplicaciones se ejecutan y escalan fácilmente en entornos Windows y Linux.&lt;div&gt;&lt;br&gt;&lt;div&gt;Ofrece una plataforma completa para crear y gestionar Web Apps, Mobile Apps, API Apps y Logic Apps&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1537.5" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--39" value="&lt;div&gt;Web apps:&lt;/div&gt;&lt;div&gt;&lt;li&gt;Soporta frameworks populares como .NET, Java, PHP, y Python.&lt;/li&gt;&lt;li&gt;Ofrece integración continua con Visual Studio Online, GitHub y Bitbucket.&lt;/li&gt;&lt;li&gt;Permite conectividad híbrida e integración con Active Directory.&lt;/li&gt;&lt;li&gt;Asegura el cumplimiento de normas, auditorías y retención de datos.&lt;/li&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1292.5" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--42" value="&lt;div&gt;Mobile apps:&lt;br&gt;&lt;li&gt;Proporciona capacidades backend para plataformas móviles nativas (Windows, iOS, Android) y multiplataforma (Xamarin, Cordova).&lt;/li&gt;&lt;li&gt;Facilita notificaciones push y autenticación con proveedores de identidad populares.&lt;/li&gt;&lt;li&gt;Ofrece almacenamiento de datos en la nube con sincronización offline.&lt;/li&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1292.5" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--44" value="&lt;div&gt;Logic apps:&lt;/div&gt;&lt;div&gt;&lt;li&gt;Permite automatizar procesos y flujos de trabajo.&lt;/li&gt;&lt;li&gt;Integra servicios comerciales, de consumo y APIs personalizadas.&lt;/li&gt;&lt;li&gt;Incluye capacidades avanzadas de Azure BizTalk para integración empresarial.&lt;/li&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1770" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--45" value="&lt;div&gt;API Apps:&lt;br&gt;&lt;li&gt;Facilita la creación, alojamiento y gestión de API&#39;s.&lt;/li&gt;&lt;li&gt;Soporta sistemas empresariales como SAP, Siebel y Oracle, y servicios populares como Salesforce y Dynamics CRM Online.&lt;/li&gt;&lt;li&gt;Permite usar una amplia biblioteca de APIs existentes o crear nuevas APIs para uso público o privado.&lt;/li&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1770" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSGZ_mrEEoBqKYDboXB--38" target="FSGZ_mrEEoBqKYDboXB--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--52" value="&lt;h3&gt;Soporte de Escalado Automático Incorporado (Built-in Auto Scale Support):&lt;/h3&gt;&lt;div&gt;Tiene la posibilidad de escalar vertical u horizontalmente según las necesidades de la aplicación web&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1310" width="330" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--53" value="&lt;h3&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;&lt;h3&gt;Soporte Continuo de Integración/Implementación:&lt;/h3&gt;&lt;div&gt;&lt;b&gt;Integración Continua&lt;/b&gt;: Automatiza la sincronización del código y los cambios futuros desde cualquier fuente de código hacia la aplicación web en App Service.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Implementación Continua&lt;/b&gt;: Facilita la configuración de pipelines de despliegue, estos aseguran que cada modificación de código se pruebe y despliegue automáticamente, esto mejora la eficiencia y reduciendo errores.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1770" width="390" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--54" value="¿Qué es escalado horizontal?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FSGZ_mrEEoBqKYDboXB--54" target="FSGZ_mrEEoBqKYDboXB--56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSGZ_mrEEoBqKYDboXB--56" value="Es mejorar el rendimiento de un sistema,&amp;nbsp;&lt;div&gt;ya sea agregando o quitando instancias de la aplicación según la demanda, con esto, se va a distribuir la carga de trabajo entre múltiples instancias.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="370" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
